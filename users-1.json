@@ -1,7 +1,7 @@
 [
   {
-    "name": "Meowsy",
-    "species" : "cat",
+    "name": "Toxicking_Techguru",
+    "goodat" : " Javascript and its frameworks  ",
     "foods": {
       "likes": ["tuna", "catnip"],
       "dislikes": ["ham", "zucchini"]
