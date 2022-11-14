@@ -1,26 +1,28 @@
 [
   {
-    "name": "Toxicking_Techguru",
-    "goodat" : " Javascript and its frameworks  ",
-    "foods": {
-      "likes": ["tuna", "catnip"],
-      "dislikes": ["ham", "zucchini"]
-    }
+    "name": "Masoko.com",
+    "goodat" : " toxicking_techguru  ",
+   
   },
   {
-    "name": "Barky",
-    "goodat" : "dog",
-    "foods": {
-      "likes": ["bones", "carrots"],
-      "dislikes": ["tuna"]
-    }
+    "name": " theshiel.com",
+    "goodat" : "skeeperloyalties ",
+    
   },
   {
-    "name": "Purrpaws",
-    "goodat" : "cat",
-    "foods": {
-      "likes": ["mice"],
-      "dislikes": ["cookies"]
-    }
+    "name": "safaricom.com",
+    "goodat" : "yrn_collo" ",
+    
+  },
+  {
+    "name": "tiktok.com",
+    "goodat" : "steiner254" ",
+    
+  },
+  {
+    "name": " facebook.com",
+    "goodat" : "vickyk3" ",
+    
   }
+  
 ]
